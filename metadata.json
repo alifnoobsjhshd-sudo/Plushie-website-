@@ -1,0 +1,6 @@
+{
+  "name": "Sprout Plushies",
+  "description": "An interactive, premium, sweet light-themed landing experience for cute green green cartoon plushies with an interactive 3D model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
